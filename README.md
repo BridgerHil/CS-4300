@@ -1,2 +1,2 @@
-# CS-4300
-IOS App Development Repository
+# Memory Game
+IOS App Development Class Memory Game
